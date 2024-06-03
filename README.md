@@ -1,9 +1,9 @@
-Projeto criado para realização dos cenãrios do Teste Técnico para vaga como QA no
+Projeto criado para realização dos cenários do Teste Técnico para vaga como QA no
 Fcx_Labs
 
 Tech Lead - Roberta Andrade
 
-Canditada - Ana Evelyn
+Candidada - Ana Evelyn
 
 
 ************************************************************************************
@@ -25,3 +25,5 @@ cypress/
   │   └── e2e.js
 cypress.config.js
 package.json
+
+
